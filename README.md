@@ -7,8 +7,10 @@ With help of this tracker you can add, update (delete or replace) your expenses 
 
 ## Features
 - Add/Update - for adding and updating data
-- Analytics by Category - for visualizing spending by category
-- Analytics by Month - for visualizing spending by month
+- Analytics by Category - for visualizing spending by category![AnalyticsbyCategory-MadewithClipchamp1-ezgif com-gif-to-mp4-converter](https://github.com/user-attachments/assets/e6b1e542-af28-4966-a239-dd279ef40bb8)
+ 
+- Analytics by Month - for visualizing spending by month ![Screenshot 2024-10-10 021726](https://github.com/user-attachments/assets/20125b81-96e4-49a1-a580-984a24c38917)
+
 
 
 ## Project Structure
