@@ -24,7 +24,7 @@ With help of this tracker you can add, update (delete or replace) your expenses 
 To use this project, you first need to install the required dependencies. Follow these steps:
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/expense-management-system.git
+   git clone [https://github.com/yourusername/expense-management-system.git](https://github.com/shellynagar27/Expense-Tracker-Creation-using-Python.git)
    cd expense-management-system
    ```
 1. **Install dependencies:**:   
