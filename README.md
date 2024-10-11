@@ -1,5 +1,5 @@
 # Expense Management System
-I recreated this project by following [Python: Beginner to Advanced For Data Professionals](https://codebasics.io/courses/python-beginner-to-advanced) by [CodeBasics](https://codebasics.io/)
+I built this project by following [Python: Beginner to Advanced For Data Professionals](https://codebasics.io/courses/python-beginner-to-advanced) by [CodeBasics](https://codebasics.io/)
 ## Project Description
 
 This project is an expense management system that consists of a Streamlit frontend application and a FastAPI backend server.</br>
