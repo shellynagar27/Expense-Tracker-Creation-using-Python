@@ -8,9 +8,9 @@ logger= setup_logger('db_helper')
 @contextmanager
 def get_db_cursor(commit=False):
     connection=mysql.connector.connect(
-        host='127.0.0.1',
+        host='127.0.0.1', # or localhost as per your system MYSQL settings
         user='root',
-        password='@#$EunWooT27', #str(input("ENTER MySQL Password: ")),
+        password="ENTER MySQL Password"
         database='expense_manager'
     )
 
