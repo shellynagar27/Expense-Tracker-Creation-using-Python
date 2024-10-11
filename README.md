@@ -35,6 +35,11 @@ To use this project, you first need to install the required dependencies. Follow
    ```commandline
     pip install -r requirements.txt
    ```
+1. **Make changes to get_db_cursor function in db_helper.py file available in backend folder:**:   
+   ```commandline
+    host='Enter host name as per your systsm MySQL'
+    password ='Enter MySQL password'
+   ```
 1. **Run the FastAPI server:**:   
    ```commandline
     uvicorn server.server:app --reload
