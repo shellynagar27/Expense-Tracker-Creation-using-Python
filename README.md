@@ -29,7 +29,7 @@ To use this project, you first need to install the required dependencies. Follow
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/shellynagar27/Expense-Tracker-Creation-using-Python.git
-   cd expense-management-system
+   cd Expense-Tracker-Creation-using-Python
    ```
 1. **Install dependencies:**:   
    ```commandline
