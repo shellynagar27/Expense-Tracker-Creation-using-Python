@@ -48,7 +48,12 @@ To use this project, you first need to install the required dependencies. Follow
    ```commandline
     streamlit run frontend/app.py
    ```
-
+## Key Learnings:
+  - Professional project structure and best practices for full-stack development.
+  - MySQL integration with Python and FastAPI for backend operations.
+  - Logging setup to track system changes and errors.
+  - Efficient memory usage with pydantic and code reusability using decorators.
+  - Building an interactive web app using Streamlit and connecting with backend services.
 ## Contact
 - Name- Shelly Nagar
 - linkedin - https://www.linkedin.com/in/shellynagar/
